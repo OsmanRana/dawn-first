@@ -182,7 +182,6 @@
     "content_for_index": []
   },
   "presets": {
-  
     "Default": {
       "colors_solid_button_labels": "#ffffff",
       "colors_accent_1": "#121212",

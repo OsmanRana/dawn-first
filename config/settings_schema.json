@@ -16,10 +16,10 @@
       },
       {
         "type": "color",
-        "id": "my_color",
+        "id": "colors_my_color",
         "default": "#334FB4",
-        "label": "t:settings_schema.colors.settings.colors_solid_button_labels.label",
-        "info": "t:settings_schema.colors.settings.colors_solid_button_labels.info"
+        "label": "t:settings_schema.colors.settings.colors_my_color.label",
+        "info": "t:settings_schema.colors.settings.colors_my_color.info"
       },
       {
         "type": "color",

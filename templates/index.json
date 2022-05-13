@@ -211,7 +211,7 @@
       "type": "custom-liquid",
       "settings": {
         "custom_liquid": "",
-        "color_scheme": "accent-2",
+        "color_scheme": "my-color",
         "padding_top": 40,
         "padding_bottom": 52
       }

@@ -191,7 +191,7 @@
   },
   "presets": {
     "Custom": {
-      "colors_accent_2": "E22120"
+      "colors_accent_3": "e22120"
     },
     "Default": {
       "colors_solid_button_labels": "#ffffff",

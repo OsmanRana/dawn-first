@@ -93,7 +93,10 @@
           "label": "Solid button label",
           "info": "Used as foreground color on accent colors."
         },
-
+        "my_color": {
+          "label": "My color",
+          "info": "Custom color"
+        },
         "colors_accent_1": {
           "label": "Accent 1",
           "info": "Used for solid button background."

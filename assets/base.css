@@ -30,7 +30,9 @@
   --color-background: var(--color-base-accent-2);
   --gradient-background: var(--gradient-base-accent-2);
 }
-
+.color-my-color {
+  --color-background: var(--color-base-my-color);
+}
 .color-foreground-outline-button {
   --color-foreground: var(--color-base-outline-button-labels);
 }

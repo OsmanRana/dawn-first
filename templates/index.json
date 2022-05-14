@@ -211,6 +211,7 @@
       "type": "custom-liquid",
       "settings": {
         "custom_liquid": "",
+        "colors_my_color": "#1effa2",
         "color_scheme": "my-color",
         "padding_top": 40,
         "padding_bottom": 52

@@ -11,7 +11,7 @@
   }
 }
 {%- endstyle -%}
-<div class="color-{{ section.settings.colors_my_color }} gradient">
+<div class="color-{{ section.settings.color_scheme }} gradient">
   <div class="section-{{ section.id }}-padding">
     {{ section.settings.custom_liquid }}
   </div>
@@ -31,12 +31,12 @@
     },
     {
       "type": "color",
-      "id": "colors_my_color",
+      "id": "color_scheme",
       "default": "#316650",
       "label": "t:settings_schema.colors.settings.colors_my_color.label",
       "info": "t:settings_schema.colors.settings.colors_my_color.info"
     },
-    {
+    <!-- {
       "type": "select",
       "id": "color_scheme",
       "options": [
@@ -67,7 +67,7 @@
       ],
       "default": "background-1",
       "label": "t:sections.all.colors.label"
-    },
+    }, -->
     {
       "type": "header",
       "content": "t:sections.all.padding.section_padding_heading"

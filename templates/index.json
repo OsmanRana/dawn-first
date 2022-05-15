@@ -232,6 +232,7 @@
         "view_all_style": "solid",
         "enable_desktop_slider": false,
         "bg_color": "#90e7a9",
+        "card_bg_color": "#ffffff",
         "image_ratio": "portrait",
         "show_secondary_image": true,
         "show_vendor": true,
@@ -241,18 +242,14 @@
         "swipe_on_mobile": false,
         "padding_top": 64,
         "padding_bottom": 64,
-        "card_style": "card",
         "card_padding": 20,
-        "card_text_alignment": "left",
-        "card_color_scheme": "inverse",
         "border_color": "#121212",
         "card_border_thickness": 1,
-        "card_border_opacity": 0,
         "card_corner_radius": 10,
         "card_shadow_opacity": 10,
         "card_shadow_horizontal_offset": 0,
         "card_shadow_vertical_offset": 0,
-        "card_shadow_blur": 0
+        "card_shadow_blur": 5
       }
     },
     "1652532929e41f3f95": {

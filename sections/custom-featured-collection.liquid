@@ -23,6 +23,9 @@
       border-radius: 50px;
       border: 5px solid black;
   }
+  .my{
+border-radius: 50px;
+}
 
   @media screen and (min-width: 750px) {
     .section-{{ section.id }}-padding {
@@ -68,7 +71,7 @@
         {%- for product in section.settings.collection.products limit: section.settings.products_to_show -%}
           <li id="Slide-{{ section.id }}-{{ forloop.index }}" class="custom-{{section.id}}-css grid__item{% if show_mobile_slider or show_desktop_slider %} slider__slide{% endif %}">
             {% render 'card-product',
-              card_product: product,
+              <span class="my">card_product: product</span>,
               media_aspect_ratio: section.settings.image_ratio,
               show_secondary_image: section.settings.show_secondary_image,
               show_vendor: section.settings.show_vendor,

@@ -211,7 +211,7 @@
       "type": "custom-liquid",
       "settings": {
         "custom_liquid": "",
-        "color_scheme": "background-1",
+        "custom_bg_color": "#FFFFFF",
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -231,7 +231,7 @@
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
-        "color_scheme": "background-1",
+        "bg_color": "#f50f0f",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": true,

@@ -315,6 +315,9 @@
       },
       "spacing": "Spacing",
       "colors": {
+        "bg_color": {
+          "label": "Background Color"
+        },
         "accent_1": {
           "label": "Accent 1"
         },

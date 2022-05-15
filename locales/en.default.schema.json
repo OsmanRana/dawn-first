@@ -677,6 +677,9 @@
     "custom-featured-collection": {
       "name": "Custom Featured collection",
       "settings": {
+        "bg_color": {
+          "label": "Background Color"
+        },
         "title": {
           "label": "Heading"
         },

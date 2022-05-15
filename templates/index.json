@@ -211,7 +211,7 @@
       "type": "custom-liquid",
       "settings": {
         "custom_liquid": "",
-        "color_scheme": "#30e499",
+        "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
       }

@@ -102,6 +102,42 @@
         "padding_bottom": 36
       }
     },
+    "1652525776c0d2fe96": {
+      "type": "custom-featured-collection",
+      "settings": {
+        "title": "{{ section.settings.collection.title }}",
+        "heading_size": "h0",
+        "description": "",
+        "show_description": true,
+        "description_style": "body",
+        "collection": "yummylicious-candles",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "bg_color": "#90e7a9",
+        "card_bg_color": "#ffffff",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 64,
+        "padding_bottom": 64,
+        "card_padding": 20,
+        "border_color": "#121212",
+        "card_border_thickness": 1,
+        "card_corner_radius": 10,
+        "card_shadow_opacity": 25,
+        "card_shadow_horizontal_offset": 6,
+        "card_shadow_vertical_offset": 6,
+        "card_shadow_blur": 10
+      }
+    },
     "collage": {
       "type": "collage",
       "blocks": {
@@ -207,42 +243,6 @@
         "padding_bottom": 36
       }
     },
-    "1652525776c0d2fe96": {
-      "type": "custom-featured-collection",
-      "settings": {
-        "title": "{{ section.settings.collection.title }}",
-        "heading_size": "h0",
-        "description": "",
-        "show_description": true,
-        "description_style": "body",
-        "collection": "yummylicious-candles",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "bg_color": "#90e7a9",
-        "card_bg_color": "#ffffff",
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": true,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 64,
-        "padding_bottom": 64,
-        "card_padding": 20,
-        "border_color": "#121212",
-        "card_border_thickness": 1,
-        "card_corner_radius": 10,
-        "card_shadow_opacity": 25,
-        "card_shadow_horizontal_offset": 6,
-        "card_shadow_vertical_offset": 6,
-        "card_shadow_blur": 10
-      }
-    },
     "1652532929e41f3f95": {
       "type": "rich-text",
       "blocks": {
@@ -285,10 +285,10 @@
     "image_banner",
     "rich_text",
     "featured_collection",
+    "1652525776c0d2fe96",
     "collage",
     "video",
     "multicolumn",
-    "1652525776c0d2fe96",
     "1652532929e41f3f95"
   ]
 }
